@@ -19,15 +19,23 @@ The design demonstrates basic mechanical principles of robotics and can be used 
 Below are some views of the robotic arm design:
 
 <p align="center">
-  <img src="https://github.com/shouqalhabs/pics/blob/main/Screenshot%202025-08-14%20010821.png?raw=true" alt="Robotic Arm View1" width="250"/>
-  <img src="" alt="Robotic Arm View2" width="250"/>
-  <img src="" alt="Robotic Arm View3" width="250"/>
+  <img src="https://github.com/shouqalhabs/pics/blob/main/Screenshot%202025-08-14%20010821.png?raw=true" alt="Robotic Arm View1" width="600"/>
 </p>
+
+<p align="center">
+  <img src="https://github.com/shouqalhabs/pics/blob/main/Screenshot%202025-08-14%20010937.png?raw=true" alt="Robotic Arm View2" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/shouqalhabs/pics/blob/main/Screenshot%202025-08-14%20010846.png?raw=true" alt="Robotic Arm View3" width="600"/>
+</p>
+
 
 ## Getting started
 ### View the design
 1. Open [Tinkercad](https://www.tinkercad.com/).  
-2. Import the provided `.stl` or `.obj` files.  
+2. Import the provided `.stl` file.
+3. Enjoy viewing my design!
 
 ### Modify the design
 - Use Tinkercad's editor to adjust link lengths, add mounting holes, or redesign the gripper.
